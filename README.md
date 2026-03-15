@@ -1,8 +1,6 @@
-# Correlation and regression for data analysis
-```
-# Name: D.BALA SUBRAMANYAM
-# Reg no: 212224040062
-```
+# Date: 11/02/26
+# EXP:3 Correlation and regression for data analysis
+
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
